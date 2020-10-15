@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CRUD DBSQLite</string>
+
+    <string name="label_name">Insert your name</string>
+    <string name="label_majors">Your majors</string>
+    <string name="btn_add">Save</string>
+    <string name="btn_show">Show Data</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_submit">Submit</string>
+
+    <string name="info_success_add_student">Input name success</string>
+    <string name="info_success_update">Update success</string>
+    <string name="info_success_delete">Delete success</string>
+</resources>
